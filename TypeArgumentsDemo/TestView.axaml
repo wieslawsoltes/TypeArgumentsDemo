@@ -11,8 +11,10 @@
   <ListBox>
     <scg:List x:TypeArguments="local:Item(sys:String)">
       <local:Item x:TypeArguments="sys:String" Value="Avalonia" />
-      <local:Item x:TypeArguments="sys:String" Value="Loves" />
-      <local:Item x:TypeArguments="sys:String" Value="ReactiveUI" />
+      <local:Item x:TypeArguments="sys:String" Value="Supports" />
+      <local:Item x:TypeArguments="sys:String" Value="Generics" />
+      <local:Item x:TypeArguments="sys:String" Value="in" />
+      <local:Item x:TypeArguments="sys:String" Value="Xaml" />
     </scg:List>
     <ListBox.DataTemplates>
       <DataTemplate>
